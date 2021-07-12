@@ -9,7 +9,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/aditya-panigrahy-59bba8192/ https://twitter.com/AdityaP84700564 github.com/aditya687 https://stackoverflow.com/users/14619709/aditya-prasad https://leetcode.com/dareaditya/ https://www.hackerrank.com/adityapanigrahy1 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to read books and giving inspiration to spread knowledge
--->
 
 <!--
 **aditya687/aditya687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
