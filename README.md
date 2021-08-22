@@ -6,7 +6,13 @@
 - 👯 I’m looking to collaborate on Open-Source
 - 🤔 I’m looking for help with Project Mentors
 - 💬 Ask me about ML, Web Dev, Networking
-- 📫 How to reach me: https://www.linkedin.com/in/aditya-panigrahy-59bba8192/ https://twitter.com/AdityaP84700564 github.com/aditya687 https://stackoverflow.com/users/14619709/aditya-prasad https://leetcode.com/dareaditya/ https://www.hackerrank.com/adityapanigrahy1 
+- 📫 How to reach me: 
+- #LinkedIn- https://www.linkedin.com/in/aditya-panigrahy-59bba8192/ 
+- #Twitter- https://twitter.com/AdityaP84700564 
+- #Github- github.com/aditya687 
+- #StackOverFlow- https://stackoverflow.com/users/14619709/aditya-prasad 
+- #LeetCode- https://leetcode.com/dareaditya/ 
+- #HackerRank- https://www.hackerrank.com/adityapanigrahy1 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to read books and giving inspiration to spread knowledge
 
