@@ -1,5 +1,5 @@
 ### Hi there 👋
-# DevIncept
+# Web Developer
 
 - 🔭 I’m currently working on Frontend Dev
 - 🌱 I’m currently learning Web Dev
