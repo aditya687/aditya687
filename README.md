@@ -7,17 +7,17 @@
 - 🤔 I’m looking for help with Project Mentors
 - 💬 Ask me about ML, Web Dev, Networking
 - 📫 How to reach me: 
-- #LinkedIn-
+- LinkedIn-
 -  https://www.linkedin.com/in/aditya-panigrahy-59bba8192/ 
-- #Twitter- 
+- Twitter- 
 - https://twitter.com/AdityaP84700564 
-- #Github- 
+- Github- 
 - github.com/aditya687 
-- #StackOverFlow- 
+- StackOverFlow- 
 - https://stackoverflow.com/users/14619709/aditya-prasad 
-- #LeetCode- 
+- LeetCode- 
 - https://leetcode.com/dareaditya/ 
-- #HackerRank- 
+- HackerRank- 
 - https://www.hackerrank.com/adityapanigrahy1 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves to read books and giving inspiration to spread knowledge
