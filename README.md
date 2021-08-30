@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Prasad Panigrahy</h1>
+<h1 align="center">Hi 👋, I'm Aditya Prasad</h1>
 <h3 align="center">A passionate tech enthusiast and proficient frontend developer from India looking for latest technologies to explore and drive into the road of opensource</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya687&label=Profile%20views&color=0e75b6&style=flat" alt="aditya687" /> </p>
