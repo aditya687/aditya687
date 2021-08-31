@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource programs**
 
-- 🤝 I’m looking for help with **mentors**
+- 🤝 I’m looking for help with **community**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya687/Web-Dev-Projects](https://github.com/aditya687/Web-Dev-Projects)
 
@@ -19,19 +19,19 @@
 
 - 📫 How to reach me **adityapanigrahy134@gmail.com**
 
-- ⚡ Fun fact **I like to make mini games**
+- ⚡ Fun fact **I like to make mini games, particpating contests and competitions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adityap84700564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityap84700564" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-panigrahy-59bba8192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-panigrahy-59bba8192/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/kaggleadidevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kaggleadidevil" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aditya.panigrahy.566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aditya.panigrahy.566/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/suceedwithaditya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suceedwithaditya/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/aditya687" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/aditya687" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/adityapanigrahy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/adityapanigrahy1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@adityapanigrahy134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@adityapanigrahy134" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/adityapanigrahy134/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/adityapanigrahy134/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-panigrahy-59bba8192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-panigrahy-59bba8192/" height="30" width="40" /></a>
+<a href="https://kaggle.com/kaggleadidevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kaggleadidevil" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aditya.panigrahy.566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aditya.panigrahy.566/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/suceedwithaditya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suceedwithaditya/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aditya687" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/aditya687" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adityapanigrahy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/adityapanigrahy1" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@adityapanigrahy134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@adityapanigrahy134" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/adityapanigrahy134/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/adityapanigrahy134/profile" height="30" width="40" /></a>
 <a href="https://discord.gg/Aditya134#1556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aditya134#1556" height="30" width="40" /></a>
 </p>
 
