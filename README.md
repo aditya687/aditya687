@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Frontend Development](aditya687.github.io)
 
-- 🌱 I’m currently learning **React/Redux, PHP and MySQL**
+- 🌱 I’m currently learning **React/Redux, NodeJS**
 
 - 👯 I’m looking to collaborate on **Opensource programs**
 
@@ -28,7 +28,7 @@
 <a href="https://kaggle.com/kaggleadidevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kaggleadidevil" height="30" width="40" /></a>
 <a href="https://www.facebook.com/aditya.panigrahy.566/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aditya.panigrahy.566/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/suceedwithaditya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suceedwithaditya/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aditya687" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/aditya687" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/adit_098" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/aditya687" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityapanigrahy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/adityapanigrahy1" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@adityapanigrahy134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@adityapanigrahy134" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adityapanigrahy134/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/adityapanigrahy134/profile" height="30" width="40" /></a>
