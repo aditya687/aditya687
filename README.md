@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource programs**
 
-- 🤝 I’m looking for help with **community**
+- 🤝 I’m looking for help with **community growth**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya687/Web-Dev-Projects](https://github.com/aditya687/Web-Dev-Projects)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **adityapanigrahy134@gmail.com**
 
-- ⚡ Fun fact **I like to make mini games, particpating contests and competitions**
+- ⚡ Fun fact **I like to make mini games, participating contests and competitions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
