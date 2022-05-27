@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aditya687/Web-Dev-Projects](https://github.com/aditya687/Web-Dev-Projects)
 
-- 💬 Ask me about **Opensource, Internships, Networking, ML, etc.**
+- 💬 Ask me about **Opensource, Internships, Networking, Startups, etc.**
 
 - 📫 How to reach me **adityapanigrahy134@gmail.com**
 
